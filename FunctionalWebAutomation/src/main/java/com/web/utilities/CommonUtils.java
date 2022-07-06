@@ -1,4 +1,4 @@
-package utilities;
+package com.web.utilities;
 
 import net.serenitybdd.core.Serenity;
 import net.serenitybdd.core.pages.ListOfWebElementFacades;

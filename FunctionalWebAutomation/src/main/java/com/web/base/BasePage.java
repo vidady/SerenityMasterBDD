@@ -3,7 +3,7 @@ package com.web.base;
 import net.thucydides.core.annotations.ClearCookiesPolicy;
 import net.thucydides.core.annotations.Managed;
 import org.openqa.selenium.WebDriver;
-import utilities.CommonUtils;
+import com.web.utilities.CommonUtils;
 
 public class BasePage extends CommonUtils {
 
