@@ -1,8 +1,8 @@
-package steps;
+package com.api.steps;
 
+import com.api.serenity.FirstSerenityStep;
 import io.cucumber.java.en.Given;
 import net.thucydides.core.annotations.Steps;
-import serenity.FirstSerenityStep;
 
 public class First {
 

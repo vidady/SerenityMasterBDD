@@ -1,7 +1,6 @@
 package com.web.cucumbersteps;
 
 import io.cucumber.java.*;
-import net.thucydides.core.reports.adaptors.xunit.model.Skip;
 
 public class Hooks {
 

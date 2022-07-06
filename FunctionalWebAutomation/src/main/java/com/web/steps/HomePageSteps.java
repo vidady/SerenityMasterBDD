@@ -1,4 +1,4 @@
-package steps;
+package com.web.steps;
 
 public class HomePageSteps {
 

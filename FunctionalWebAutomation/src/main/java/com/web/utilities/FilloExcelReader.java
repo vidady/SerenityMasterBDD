@@ -1,4 +1,4 @@
-package utilities;
+package com.web.utilities;
 
 import com.codoid.products.exception.FilloException;
 import com.codoid.products.fillo.Connection;

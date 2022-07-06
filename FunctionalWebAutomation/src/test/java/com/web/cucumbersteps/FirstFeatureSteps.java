@@ -1,10 +1,11 @@
 package com.web.cucumbersteps;
 
+import com.web.pages.HomePage;
+import com.web.pages.PasswordPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import net.thucydides.core.annotations.Steps;
-import pages.HomePage;
-import pages.PasswordPage;
+
 
 
 public class FirstFeatureSteps {

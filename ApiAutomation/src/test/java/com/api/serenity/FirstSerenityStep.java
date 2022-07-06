@@ -1,4 +1,4 @@
-package serenity;
+package com.api.serenity;
 
 
 import net.thucydides.core.annotations.Step;

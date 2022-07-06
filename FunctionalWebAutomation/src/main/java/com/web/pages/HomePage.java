@@ -1,4 +1,4 @@
-package pages;
+package com.web.pages;
 
 import com.web.base.BasePage;
 import net.thucydides.core.annotations.Step;
